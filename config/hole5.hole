@@ -1,0 +1,32 @@
+Ball 300 500 4
+Hole 500 50 10
+
+HorizontalWall 50 150 100
+HorizontalWall 250 150 100
+HorizontalWall 450 150 100
+HorizontalWall 650 150 100
+
+HorizontalWall 0 200 100
+HorizontalWall 200 200 100
+HorizontalWall 400 200 100
+HorizontalWall 600 200 100
+
+HorizontalWall 50 250 100
+HorizontalWall 250 250 100
+HorizontalWall 450 250 100
+HorizontalWall 650 250 100
+
+HorizontalWall -50 300 100
+HorizontalWall 150 300 100
+HorizontalWall 350 300 100
+HorizontalWall 550 300 100
+
+HorizontalWall 50 350 100
+HorizontalWall 250 350 100
+HorizontalWall 450 350 100
+HorizontalWall 650 350 100
+
+HorizontalWall 0 400 100
+HorizontalWall 200 400 100
+HorizontalWall 400 400 100
+HorizontalWall 600 400 100

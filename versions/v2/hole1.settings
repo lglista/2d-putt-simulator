@@ -1,0 +1,5 @@
+WindowWidth 800
+WindowHeight 600
+Increment 50
+VelocityDivisor 150
+MaxDistanceForColorSpectrum 650

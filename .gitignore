@@ -1,0 +1,7 @@
+
+*.exe
+.vscode
+obj/*
+hw2/obj/*
+**/*.png
+**/thread_data/*

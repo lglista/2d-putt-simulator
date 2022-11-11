@@ -1,0 +1,7 @@
+Ball 350 450 4
+Hole 450 450 10
+VerticalWall 100 50 525
+VerticalWall 700 50 525
+HorizontalWall 100 50 600
+HorizontalWall 100 575 600
+VerticalWall 400 200 375
