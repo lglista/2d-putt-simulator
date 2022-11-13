@@ -61,4 +61,4 @@ The above in conjunction with the hole above will produce these results (this ca
 ![hole1 simulation](images/hole1_simulation.png?raw=true "Simulation of hole 1")
 
 There are a total of 6 holes pre-made in this project that you can take examples and inspiration from as you choose. Please share your cool simulation
-results with me!
+results in the discussions section of this repo!
