@@ -3,5 +3,5 @@
 .vscode
 obj/*
 hw2/obj/*
-**/*.png
+screenshots/*
 **/thread_data/*
